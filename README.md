@@ -20,5 +20,7 @@ The POS-System is a comprehensive point of sale (POS) solution designed to manag
 1. **Clone the Repository**
    ```sh
    git clone git@github.com:Phyrakset/POS-System.git .
+   ```
+   
 2. **Navigate to the Project Directory
-   ``` cd POS-System ```
+   ```cd POS-System```
