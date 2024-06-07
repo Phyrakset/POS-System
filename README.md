@@ -28,20 +28,17 @@ The POS-System is a comprehensive point of sale (POS) solution designed to manag
    ```
 3. **Install Laravel Dependencies** 
    ```sh
-composer install
+   composer install
    ```
 4. **Copy .env Files** 
    ```sh
-cp .env.example .env
+   cp .env.example .env
    ```
 5. **Generate Application Key** 
    ```sh
-php artisan key:generate
-
+   php artisan key:generate
    ```
 6. **Build and Start the Application using Docker Compose** 
    ```sh
-docker-compose up --build
-
-
+   docker-compose up --build
    ```
